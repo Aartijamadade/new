@@ -1,5 +1,5 @@
 import shutil
-#import os
+#import
 folder_path = "C:/Users/Dipak/Desktop/output"
 zip_file_name = "output_1_0"
 
